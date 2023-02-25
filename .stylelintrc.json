@@ -1,3 +1,7 @@
 {
-  "extends": "stylelint-config-recommended"
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-recommended-vue",
+    "stylelint-config-idiomatic-order"
+  ]
 }
