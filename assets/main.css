@@ -1,0 +1,6 @@
+@import url("reset-css/reset.css");
+
+body {
+  background-color: var(--black-color);
+  color: var(--white-color);
+}
